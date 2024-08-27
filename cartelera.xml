@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <cartelera>
+        <Pelicula1>
+            <TITULO>El PADRINO</TITULO>
+            <Idioma>Ingles</Idioma>
+            <Duracion>175 Min</Duracion>
+            <Horarios>2:00 PM, 6:00 PM, 9:00 PM </Horarios>
+            <clasifiacion>R</clasifiacion>\
+            <Principal>Michael Corleone (Al Pacino)</Principal>
+            <villano>Virgil "El Turco" Sollozzo</villano>
+            <publicacion>1972</publicacion>
+        </Pelicula1>
+
+        <Pelicula2>
+            <TITULO>Forrest Gump</TITULO>
+            <Idioma>Ingles</Idioma>
+            <Duracion>142 Min</Duracion>
+            <Horarios>1:00 PM, 4:30 PM, 8:00 PM</Horarios>
+            <clasifiacion>PG-13</clasifiacion>\
+            <Principal>Forrest Gump (Tom Hanks)</Principal>
+            <villano>No tiene</villano>
+            <publicacion>1994</publicacion>
+        </Pelicula2>
+
+        <Pelicula3>
+            <TITULO>Titanic</TITULO>
+            <Idioma>Ingles</Idioma>
+            <Duracion>195 Min</Duracion>
+            <Horarios>3:00 PM, 7:30 PM</Horarios>
+            <clasifiacion>PG-13</clasifiacion>\
+            <Principal>Jack Dawson (Leonardo DiCaprio)</Principal>
+            <villano>Cal Hockley</villano>
+            <publicacion>1997</publicacion>
+        </Pelicula3>
+
+        <Pelicula4>
+            <TITULO>Titanic</TITULO>
+            <Idioma>Ingles</Idioma>
+            <Duracion>195 Min</Duracion>
+            <Horarios>3:00 PM, 7:30 PM</Horarios>
+            <clasifiacion>PG-13</clasifiacion>\
+            <Principal>Jack Dawson (Leonardo DiCaprio)</Principal>
+            <villano>Cal Hockley</villano>
+            <publicacion>1997</publicacion>
+        </Pelicula4>
+
+        <Pelicula5>
+            <TITULO>Inception</TITULO>
+            <Idioma>Ingles</Idioma>
+            <Duracion>148 Min</Duracion>
+            <Horarios>2:30 PM, 6:00 PM, 9:30 PM</Horarios>
+            <clasifiacion>PG-13</clasifiacion>
+            <Principal>Dom Cobb (Leonardo DiCaprio)</Principal>
+            <villano>Mal</villano>
+            <publicacion>2010</publicacion>
+        </Pelicula5>
+        
+        <Pelicula6>
+            <TITULO>La La Land</TITULO>
+            <Idioma>Ingles</Idioma>
+            <Duracion>128 Min</Duracion>
+            <Horarios>12:00 PM, 4:00 PM, 8:00 PM</Horarios>
+            <clasifiacion>PG-13</clasifiacion>
+            <Principal>Sebastian (Ryan Gosling)</Principal>
+            <villano>No tiene</villano>
+            <publicacion>2016</publicacion>
+        </Pelicula6>
+        
+        <Pelicula7>
+            <TITULO>El Señor de los Anillos: La Comunidad del Anillo</TITULO>
+            <Idioma>Ingles</Idioma>
+            <Duracion>178 Min</Duracion>
+            <Horarios>1:30 PM, 5:30 PM, 9:00 PM</Horarios>
+            <clasifiacion>PG-13</clasifiacion>
+            <Principal>Frodo Baggins (Elijah Wood)</Principal>
+            <villano>Saruman</villano>
+            <publicacion>2001</publicacion>
+        </Pelicula7>
+        
+        <Pelicula8>
+            <TITULO>Matrix</TITULO>
+            <Idioma>Ingles</Idioma>
+            <Duracion>136 Min</Duracion>
+            <Horarios>12:30 PM, 3:30 PM, 7:00 PM</Horarios>
+            <clasifiacion>R</clasifiacion>
+            <Principal>Neo (Keanu Reeves)</Principal>
+            <villano>Agente Smith</villano>
+            <publicacion>1999</publicacion>
+        </Pelicula8>
+        
+        <Pelicula9>
+            <TITULO>El Caballero de la Noche</TITULO>
+            <Idioma>Ingles</Idioma>
+            <Duracion>152 Min</Duracion>
+            <Horarios>2:00 PM, 5:30 PM, 9:00 PM</Horarios>
+            <clasifiacion>PG-13</clasifiacion>
+            <Principal>Bruce Wayne (Christian Bale)</Principal>
+            <villano>Joker</villano>
+            <publicacion>2008</publicacion>
+        </Pelicula9>
+        
+        <Pelicula10>
+            <TITULO>Avatar</TITULO>
+            <Idioma>Ingles</Idioma>
+            <Duracion>162 Min</Duracion>
+            <Horarios>1:00 PM, 4:30 PM, 8:30 PM</Horarios>
+            <clasifiacion>PG-13</clasifiacion>
+            <Principal>Jake Sully (Sam Worthington)</Principal>
+            <villano>Coronel Miles Quaritch</villano>
+            <publicacion>2009</publicacion>
+        </Pelicula10>
+    </cartelera>

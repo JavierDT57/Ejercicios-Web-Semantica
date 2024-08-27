@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <family>
+        <person id="Javier" madre="Ilda">
+            <nombre>Javier</nombre>
+            <apellidos>Dolores Tolentino</apellidos>
+            <edad>22</edad>
+            <pasatiempo>Manejar moto</pasatiempo>
+        </person>
+
+        <person id="Ilda" hijo="Javier">
+            <nombre>Ilda</nombre>
+            <apellidos>Dolores Tolentino</apellidos>
+            <edad>59</edad>
+            <pasatiempo>Comer</pasatiempo>
+        </person>
+
+        <person id="Alix" hija="Ilda" nieto="Javier">
+            <nombre>Alis</nombre>
+            <apellidos>Tolentino Abiel</apellidos>
+            <edad>84</edad>
+            <pasatiempo>Contar chistes</pasatiempo>
+        </person>
+
+        <person id="Candil" hija="Ilda" nieto="Javier">
+            <nombre>Dimas</nombre>
+            <apellidos>Dolores Gutierrez</apellidos>
+            <edad>91</edad>
+            <pasatiempo>Dormir</pasatiempo>
+        </person>
+
+        <person id="Lucha" hermana="Ilda" sobrino="Javier">
+            <nombre>Luz Maria</nombre>
+            <apellidos>Dolores Tolentino</apellidos>
+            <edad>62</edad>
+            <pasatiempo>Ir a la iglesia</pasatiempo>
+        </person>
+
+        <person id="Rufo" sobrino="Javier" esposa="Lucha">
+            <nombre>Rufo</nombre>
+            <apellidos>Escobar Fuentes</apellidos>
+            <edad>55</edad>
+            <pasatiempo>Trabajar</pasatiempo>
+        </person>
+
+        <person id="Denisse" mama="Lucha" papa="Rufo" primo="Javier">
+            <nombre>Denisse</nombre>
+            <apellidos>Escobar Dolores</apellidos>
+            <edad>28</edad>
+            <pasatiempo>Jugar futbol</pasatiempo>
+        </person>
+
+        <person id="Axel" mama="Lucha" papa="Rufo" primo="Javier">
+            <nombre>Axel</nombre>
+            <apellidos>Escobar Dolores</apellidos>
+            <edad>32</edad>
+            <pasatiempo>Jugar futbol</pasatiempo>
+        </person>
+    </family>

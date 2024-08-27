@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <favoritas>
+
+        <Cancion1>
+            <Nombre>Giza</Nombre>
+            <Album>NataKong</Album>
+            <Artista>Natanael Cano</Artista>
+            <Publicacion>2021</Publicacion>
+            <Duracion>3:04 Min</Duracion>
+        </Cancion1>
+
+        <Cancion2>
+            <Nombre>300 Noches</Nombre>
+            <Album>A mis 20</Album>
+            <Artista>Natanael Cano</Artista>
+            <Publicacion>2021</Publicacion>
+            <Duracion>3:03 Min</Duracion>
+        </Cancion2>
+
+        <Cancion3>
+            
+        </Cancion3>
+
+
+    </favoritas>

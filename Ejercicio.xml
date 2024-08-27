@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <Root>
+        <email>
+            <head>
+                <from>
+                    <name>Michael Maher</name>
+                    <address>michaelmaher@cs.gu.edu.au</address>
+                </from>
+                <to>
+                    <name>Grigoris Antoniou</name>
+                    <address>grigoris@cs.unibremen.de</address>
+                </to>
+                <subject>Where is your draft?</subject>
+            </head>
+            <body>Grigoris, where is the draft of the paper you promised me last week?</body>
+        </email>
+    </Root>
