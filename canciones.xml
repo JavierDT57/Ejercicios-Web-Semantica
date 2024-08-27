@@ -18,8 +18,67 @@
         </Cancion2>
 
         <Cancion3>
-            
+            <Nombre>Se murio</Nombre>
+            <Album>Soy el Diablo</Album>
+            <Artista>Natanael Cano</Artista>
+            <Publicacion>2019</Publicacion>
+            <Duracion>2:51 Min</Duracion>
         </Cancion3>
 
+        <Cancion4>
+            <Nombre>Madrid</Nombre>
+            <Album>Las 3 torres</Album>
+            <Artista>Natanael Cano</Artista>
+            <Publicacion>2021</Publicacion>
+            <Duracion>2:51 Min</Duracion>
+        </Cancion4>
+
+        <Cancion5>
+            <Nombre>Sin ti</Nombre>
+            <Albun>Corridos Tumbados</Albun>
+            <Artista>Natanael Cano</Artista>    
+            <Publicacion>2019</Publicacion> 
+            <Duracion>3:15 Min</Duracion>       
+        </Cancion5>
+
+        <Cancion6>
+            <Nombre>Arriba</Nombre>
+            <Albun>Soy El Nata</Albun>
+            <Artista>Natanael Cano</Artista>    
+            <Publicacion>2020</Publicacion> 
+            <Duracion>2:59 Min</Duracion>       
+            </Cancion6>
+
+        <Cancion7>
+            <Nombre>Low</Nombre>
+            <Albun>Soy El Nata</Albun>
+            <Artista>Natanael Cano</Artista>    
+            <Publicacion>2020</Publicacion> 
+            <Duracion>2:43 Min</Duracion>       
+        </Cancion7>
+
+        <Cancion8>
+            <Nombre>Soy</Nombre>
+            <Albun>Trap Tumbado</Albun>
+            <Artista>Natanael Cano</Artista>    
+            <Publicacion>2021</Publicacion> 
+            <Duracion>2:43 Min</Duracion>       
+         </Cancion8>
+
+          <Cancion9>
+            <Nombre>Noches de Desvelo</Nombre>
+            <Albun>Soy El Nata</Albun>
+            <Artista>Natanael Cano</Artista>    
+            <Publicacion>2020</Publicacion> 
+            <Duracion>3:19 Min</Duracion>       
+        </Cancion9>
+
+        <Cancion10>
+            <Nombre>10 Segundos</Nombre>
+            <Albun>A Mis 20</Albun>
+            <Artista>Natanael Cano</Artista>    
+            <Publicacion>2021</Publicacion> 
+            <Duracion>2:28 Min</Duracion>       
+        </Cancion10>
 
     </favoritas>
