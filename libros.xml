@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria>
+    <libro1>
+        <nombre>Fundamentos de la Web Semántica</nombre>
+        <año>2015</año>
+        <editorial>Editorial Tecnológica</editorial>
+        <num_paginas>320</num_paginas>
+        <autor>Juan Pérez</autor>
+        <editor>María Ortega</editor>
+        <edicion>Primera</edicion>
+        <categoria>Tecnología</categoria>
+        <idioma>Español</idioma>
+        <precio>$45.99</precio>
+    </libro1>
+
+    <libro2>
+        <nombre>Introducción a la Web Semántica</nombre>
+        <año>2018</año>
+        <editorial>Editorial Avanzada</editorial>
+        <num_paginas>280</num_paginas>
+        <autor>Ana Gómez</autor>
+        <editor>Pedro Sánchez</editor>
+        <edicion>Segunda</edicion>
+        <categoria>Computación</categoria>
+        <idioma>Español</idioma>
+        <precio>$39.99</precio>
+    </libro2>
+
+    <libro3>
+        <nombre>Web Semántica y Ontologías</nombre>
+        <año>2017</año>
+        <editorial>Editorial Científica</editorial>
+        <num_paginas>350</num_paginas>
+        <autor>Carlos Díaz</autor>
+        <editor>Luisa Blanco</editor>
+        <edicion>Tercera</edicion>
+        <categoria>Informática</categoria>
+        <idioma>Español</idioma>
+        <precio>$55.50</precio>
+    </libro3>
+
+    <libro4>
+        <nombre>Aplicaciones de la Web Semántica</nombre>
+        <año>2019</año>
+        <editorial>Editorial Innovación</editorial>
+        <num_paginas>400</num_paginas>
+        <autor>María Torres</autor>
+        <editor>Jorge Ramírez</editor>
+        <edicion>Cuarta</edicion>
+        <categoria>Tecnología</categoria>
+        <idioma>Español</idioma>
+        <precio>$60.00</precio>
+    </libro4>
+
+    <libro5>
+        <nombre>La Web Semántica para Principiantes</nombre>
+        <año>2020</año>
+        <editorial>Editorial Fácil</editorial>
+        <num_paginas>200</num_paginas>
+        <autor>José López</autor>
+        <editor>Elena García</editor>
+        <edicion>Primera</edicion>
+        <categoria>Educación</categoria>
+        <idioma>Español</idioma>
+        <precio>$25.00</precio>
+    </libro5>
+
+    <libro6>
+        <nombre>Diseño de Ontologías en la Web Semántica</nombre>
+        <año>2016</año>
+        <editorial>Editorial Tecnológica</editorial>
+        <num_paginas>370</num_paginas>
+        <autor>Elena García</autor>
+        <editor>Alberto Díaz</editor>
+        <edicion>Segunda</edicion>
+        <categoria>Ciencias de la Computación</categoria>
+        <idioma>Español</idioma>
+        <precio>$48.75</precio>
+    </libro6>
+
+    <libro7>
+        <nombre>Redes Semánticas y Web 3.0</nombre>
+        <año>2018</año>
+        <editorial>Editorial Avanzada</editorial>
+        <num_paginas>290</num_paginas>
+        <autor>Ricardo Martínez</autor>
+        <editor>Raquel Luna</editor>
+        <edicion>Tercera</edicion>
+        <categoria>Redes</categoria>
+        <idioma>Español</idioma>
+        <precio>$42.90</precio>
+    </libro7>
+
+    <libro8>
+        <nombre>Programación para la Web Semántica</nombre>
+        <año>2021</año>
+        <editorial>Editorial Científica</editorial>
+        <num_paginas>310</num_paginas>
+        <autor>Sara Núñez</autor>
+        <editor>Daniel Fuentes</editor>
+        <edicion>Primera</edicion>
+        <categoria>Desarrollo Web</categoria>
+        <idioma>Español</idioma>
+        <precio>$50.00</precio>
+    </libro8>
+
+    <libro9>
+        <nombre>Semántica Web en Español</nombre>
+        <año>2019</año>
+        <editorial>Editorial Innovación</editorial>
+        <num_paginas>270</num_paginas>
+        <autor>David Rodríguez</autor>
+        <editor>Carmen Ruiz</editor>
+        <edicion>Segunda</edicion>
+        <categoria>Tecnología</categoria>
+        <idioma>Español</idioma>
+        <precio>$35.00</precio>
+    </libro9>
+
+    <libro10>
+        <nombre>Enfoques Prácticos para la Web Semántica</nombre>
+        <año>2022</año>
+        <editorial>Editorial Fácil</editorial>
+        <num_paginas>350</num_paginas>
+        <autor>Laura Fernández</autor>
+        <editor>Fernando Ortega</editor>
+        <edicion>Primera</edicion>
+        <categoria>Tecnología</categoria>
+        <idioma>Español</idioma>
+        <precio>$47.30</precio>
+    </libro10>
+</libreria>
