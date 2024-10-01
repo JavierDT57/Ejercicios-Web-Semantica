@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Familia">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="NombreFamilia" type="xs:string"/>
+                <xs:element name="Miembros">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Miembro" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Nombre" type="xs:string"/>
+                                        <xs:element name="Apellidos" type="xs:string"/>
+                                        <xs:element name="Edad" type="xs:integer"/>
+                                        <xs:element name="Pasatiempo" type="xs:string"/>
+                                        <xs:element name="Parentesco" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

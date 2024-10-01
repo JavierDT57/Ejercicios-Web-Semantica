@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Familia SYSTEM "familia.dtd">
+<Familia>
+    <NombreFamilia>Familia Urian</NombreFamilia>
+    <Miembros>
+        <Miembro>
+            <Nombre>Ian Uriel</Nombre>
+            <Apellidos>Sanchez Alvarado</Apellidos>
+            <Edad>32</Edad>
+            <Pasatiempo>Jugar Splatoon</Pasatiempo>
+            <Parentesco>Padre</Parentesco>
+        </Miembro>
+        <Miembro>
+            <Nombre>Quetzalli</Nombre>
+            <Apellidos>Huitzil Juarez</Apellidos>
+            <Edad>33</Edad>
+            <Pasatiempo>Tejer crochet</Pasatiempo>
+            <Parentesco>Madre</Parentesco>
+        </Miembro>
+        <Miembro>
+            <Nombre>Luis Tomas</Nombre>
+            <Apellidos>Sanchez Huitzil</Apellidos>
+            <Edad>10</Edad>
+            <Pasatiempo>Hacer el Pomodoro inverso</Pasatiempo>
+            <Parentesco>Hijo</Parentesco>
+        </Miembro>
+        <Miembro>
+            <Nombre>Duanny</Nombre>
+            <Apellidos>Sanchez Huitzil</Apellidos>
+            <Edad>10</Edad>
+            <Pasatiempo>Grabar tiktoks</Pasatiempo>
+            <Parentesco>Hijo</Parentesco>
+        </Miembro>
+    </Miembros>
+</Familia>

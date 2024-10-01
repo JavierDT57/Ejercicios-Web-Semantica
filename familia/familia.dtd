@@ -1,0 +1,9 @@
+<!ELEMENT Familia (NombreFamilia, Miembros)>
+<!ELEMENT NombreFamilia (#PCDATA)>
+<!ELEMENT Miembros (Miembro+)>
+<!ELEMENT Miembro (Nombre, Apellidos, Edad, Pasatiempo, Parentesco)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Apellidos (#PCDATA)>
+<!ELEMENT Edad (#PCDATA)>
+<!ELEMENT Pasatiempo (#PCDATA)>
+<!ELEMENT Parentesco (#PCDATA)>
