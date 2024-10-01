@@ -1,0 +1,15 @@
+<!ELEMENT Facultad (NombreFacultad, Carreras, Profesores, Estudiantes)>
+<!ELEMENT NombreFacultad (#PCDATA)>
+<!ELEMENT Carreras (Carrera+)>
+<!ELEMENT Carrera (#PCDATA)>
+<!ELEMENT Profesores (Profesor+)>
+<!ELEMENT Profesor (Nombre, Edad, Correo, MateriaImparte)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Edad (#PCDATA)>
+<!ELEMENT Correo (#PCDATA)>
+<!ELEMENT MateriaImparte (#PCDATA)>
+<!ELEMENT Estudiantes (Estudiante+)>
+<!ELEMENT Estudiante (Nombre, Edad, Matricula, CarreraEstudiante, MateriaTomar)>
+<!ELEMENT Matricula (#PCDATA)>
+<!ELEMENT CarreraEstudiante (#PCDATA)>
+<!ELEMENT MateriaTomar (#PCDATA)>

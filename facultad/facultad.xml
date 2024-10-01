@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Facultad SYSTEM "facultad.dtd">
+<Facultad>
+    <NombreFacultad>Facultad de Ciencias de la computacion</NombreFacultad>
+    <Carreras>
+        <Carrera>Ing. Ciencias de la Computacion</Carrera>
+        <Carrera>lic. Ciencias de la Computacion</Carrera>
+        <Carrera>Ing. Tecnologias de la informacion</Carrera>
+    </Carreras>
+    <Profesores>
+        <Profesor>
+            <Nombre>Luis Yael Mendez Sanchez</Nombre>
+            <Edad>28</Edad>
+            <Correo>luis.mendezsanchez@correo.buap.mx</Correo>
+            <MateriaImparte>Web Semantica</MateriaImparte>
+        </Profesor>
+        <Profesor>
+            <Nombre>Jose Luis Hernandez Ameca</Nombre>
+            <Edad>40</Edad>
+            <Correo>joseluis.hdzameca@correo.buap.mx</Correo>
+            <MateriaImparte>Teoria del control</MateriaImparte>
+        </Profesor>
+    </Profesores>
+    <Estudiantes>
+        <Estudiante>
+            <Nombre>Jonatan Enrique Badillo Tejeda</Nombre>
+            <Edad>22</Edad>
+            <Matricula>202028319</Matricula>
+            <CarreraEstudiante>Ing. Ciencias de la Computacion</CarreraEstudiante>
+            <MateriaTomar>Web Semantica</MateriaTomar>
+        </Estudiante>
+        <Estudiante>
+            <Nombre>Javier Dolores Tolentino</Nombre>
+            <Edad>22</Edad>
+            <Matricula>202065773</Matricula>
+            <CarreraEstudiante>Ing. Ciencias de la Computacion</CarreraEstudiante>
+            <MateriaTomar>Teoria del control</MateriaTomar>
+        </Estudiante>
+    </Estudiantes>
+</Facultad>

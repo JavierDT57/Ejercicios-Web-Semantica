@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Facultad">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="NombreFacultad" type="xs:string"/>
+                <xs:element name="Carreras">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Carrera" type="xs:string" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="Profesores">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Profesor" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Nombre" type="xs:string"/>
+                                        <xs:element name="Edad" type="xs:integer"/>
+                                        <xs:element name="Correo" type="xs:string"/>
+                                        <xs:element name="MateriaImparte" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="Estudiantes">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Estudiante" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Nombre" type="xs:string"/>
+                                        <xs:element name="Edad" type="xs:integer"/>
+                                        <xs:element name="Matricula" type="xs:string"/>
+                                        <xs:element name="CarreraEstudiante" type="xs:string"/>
+                                        <xs:element name="MateriaTomar" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
