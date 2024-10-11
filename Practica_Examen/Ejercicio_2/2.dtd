@@ -1,0 +1,24 @@
+<!ENTITY % persona "nombre, apellido, edad">
+<!ENTITY % fecha_atribut
+  "dia CDATA #IMPLIED
+  mes CDATA #IMPLIED
+  ano CDATA #IMPLIED ">
+<!ENTITY % def "(#PCDATA)">
+
+<!ELEMENT examen (fecha, asignatura, profesor, alumno+, notas-examen)>
+<!ELEMENT fecha EMPTY>
+    <!ATTLIST fecha %fecha_atribut; >
+<!ELEMENT asignatura %def;>
+<!ELEMENT profesor (%persona;, (titulacion+ | departamento+))>
+<!ELEMENT nombre %def;>
+<!ELEMENT apellido (ape1,ape2)>
+    <!ELEMENT ape1 %def;>
+    <!ELEMENT ape2 %def;>
+<!ELEMENT edad %def;>
+<!ELEMENT titulacion %def;>
+<!ELEMENT departamento %def;>
+<!ELEMENT alumno (%persona;, matricula)>
+<!ELEMENT matricula (asignatura+)>
+<!ELEMENT notas-examen (asignatura, revision)>
+<!ELEMENT revision EMPTY>
+    <!ATTLIST revision %fecha_atribut;>

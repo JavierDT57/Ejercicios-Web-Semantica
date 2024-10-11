@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE examen SYSTEM "2.dtd">
+
+<examen>
+    <fecha dia="19" mes="03" ano="2024" />
+    <asignatura>Arquitectura de computadoras</asignatura>
+    <profesor>
+        <nombre>Jose</nombre>
+        <apellido>
+            <ape1>Hurtado</ape1>
+            <ape2>Madrid</ape2>
+        </apellido>
+        <edad>40</edad>
+        <titulacion>Doctorado en Electronica</titulacion>
+    </profesor>
+
+    <alumno>
+        <nombre>Javier</nombre>
+        <apellido>
+            <ape1>Dolores</ape1>
+            <ape2>Tolentino</ape2>
+        </apellido>
+        <edad>22</edad>
+        <matricula>
+            <asignatura>Arquitectura de computadoras</asignatura>
+        </matricula>
+    </alumno>
+
+    <alumno>
+        <nombre>Efrain</nombre>
+        <apellido>
+            <ape1>Garcia</ape1>
+            <ape2>Castañeda</ape2>
+        </apellido>
+        <edad>24</edad>
+        <matricula>
+            <asignatura>Arquitectura de computadoras</asignatura>
+        </matricula>
+    </alumno>
+
+    <alumno>
+        <nombre>Jhon</nombre>
+        <apellido>
+            <ape1>Elton</ape1>
+            <ape2>Quintos</ape2>
+        </apellido>
+        <edad>26</edad>
+        <matricula>
+            <asignatura>Arquitectura de computadoras</asignatura>
+        </matricula>
+    </alumno>
+
+    <notas-examen>
+        <asignatura>Arquitectura de computadoras</asignatura>
+        <revision dia="29" mes="03" ano="2024" />
+    </notas-examen>
+</examen>
